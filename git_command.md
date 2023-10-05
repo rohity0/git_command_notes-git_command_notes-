@@ -7,3 +7,6 @@ git commit -m <message> | this is comman to commit the file with a message that 
 
 git log => list of   all the latest commit 
 
+// time travel in the git
+git revert 
+git reset 
